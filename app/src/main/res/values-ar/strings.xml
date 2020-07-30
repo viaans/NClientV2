@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+  <resources>
     <string name="setting_on_ignore_tags">Other tags won\'t be queried when a tag is selected from the gallery menu (except language)</string>
     <string name="setting_off_ignore_tags">Other tags will be queried when a tag is selected from the gallery menu</string>
     <string name="setting_on_high_res">Best resolution images will be loaded (more data)</string>
@@ -8,14 +8,14 @@
     <string name="setting_off_load">Images will be loaded only in single page viewer</string>
     <string name="setting_on_use_account_tag">Use the account tags into the search query (Local tags will have priority)</string>
     <string name="setting_off_use_account_tag">Account tags will be ignored for the query</string>
-    <string name="theme_summary">Select theme colors</string>
-    <string name="send_crash_report">Send crash report</string>
-    <string name="change_theme">Change theme</string>
-    <string name="clear_cache">Clear cache</string>
-    <string name="load_images">Load images</string>
+    <string name="theme_summary">Pilih Warna Tema</string>
+    <string name="send_crash_report">Laporkan Bug</string>
+    <string name="change_theme">Ganti Tema</string>
+    <string name="clear_cache">Bersihkan cache</string>
+    <string name="load_images">Muat Gambar</string>
     <string name="infinite_scroll">Infinite scroll</string>
-    <string name="ignore_tags">Ignore other tags</string>
-    <string name="high_res_gallery">Load image in best resolution into gallery</string>
+    <string name="ignore_tags">Abaikan Tag Lainnya</string>
+    <string name="high_res_gallery">Muat Gambar dengan Resolusi Terbaik</string>
     <string name="use_account_tag">Use tags from account</string>
     <string name="title_activity_gallery">Gallery</string>
     <string name="title_activity_zoom">Zoom Activity</string>
@@ -26,81 +26,81 @@
     <string name="tags">Tags</string>
     <string name="artists">Artists</string>
     <string name="groups">Groups</string>
-    <string name="languages">Languages</string>
+    <string name="languages">Bahasa</string>
     <string name="categories">Categories</string>
     <string name="unknown">Unknown</string>
     <string name="channel1_name">Download Gallery</string>
-    <string name="channel2_name">Create PDF</string>
-    <string name="channel3_name">Create ZIP</string>
+    <string name="channel2_name">Buat PDF</string>
+    <string name="channel3_name">Buat ZIP</string>
     <string name="channel1_description">Used to show progress of the download of a gallery</string>
     <string name="channel2_description">Used to show progress of the creation of the PDF</string>
     <string name="channel3_description">Used to show progress of the creation of the ZIP</string>
-    <string name="channel2_title">Creating PDF:</string>
-    <string name="channel3_title">Creating ZIP:</string>
-    <string name="favorite_max_reached" formatted="true">You can have a maximum of %d favorite manga.</string>
-    <string name="tags_max_reached" formatted="true">You can have a maximum of %d selected tags.</string>
+    <string name="channel2_title">Membuat PDF:</string>
+    <string name="channel3_title">Membuat ZIP:</string>
+    <string name="favorite_max_reached" formatted="true">Kamu bisa punya maksimal %d favorit manga.</string>
+    <string name="tags_max_reached" formatted="true">Kamu bisa punya maksimal %d tags dipilih.</string>
     <string name="only_english">Only english</string>
     <string name="only_japanese">Only japanese</string>
     <string name="only_chinese">Only chinese</string>
-    <string name="all_languages">All languages</string>
+    <string name="all_languages">Semua bahasa</string>
     <string name="username_or_email">Username or Email</string>
     <string name="password">Password</string>
     <string name="login">Log in</string>
-    <string name="login_formatted" formatted="true">Logged as %s</string>
+    <string name="login_formatted" formatted="true">Log in sebagai %s</string>
     <string name="logout">Logout</string>
-    <string name="forgot_password">Forgot your password? <b>Reset it</b></string>
-    <string name="register">Don\'t have an account? <b>Register</b></string>
+    <string name="forgot_password">Lupa Password? <b>Reset it</b></string>
+    <string name="register">Tidak punya akun? <b>Daftar</b></string>
     <string name="invalid_credentials">Invalid credentials</string>
     <string name="favorite_online_manga">Favorite online manga</string>
     <string name="online_tags">Online tags</string>
-    <string name="add_to_online_favorite">Add to online favorites</string>
-    <string name="remove_from_online_favorites">Remove from online favorites</string>
-    <string name="add_to_online_blacklist">Add to online blacklist?</string>
-    <string name="tag_already_in_blacklist">Tag already in blacklist</string>
-    <string name="are_you_sure">Are you sure?</string>
+    <string name="add_to_online_favorite">Tambahkan ke online favorit</string>
+    <string name="remove_from_online_favorites">Hapus dari online favorit</string>
+    <string name="add_to_online_blacklist">Tambahkan ke online blacklist?</string>
+    <string name="tag_already_in_blacklist">Tag sudah di blacklist</string>
+    <string name="are_you_sure">Sampean yakin??</string>
     <string name="thumbnail">Thumbnail</string>
-    <string name="settings">Settings</string>
+    <string name="settings">Pengaturan</string>
     <string name="related">Related</string>
-    <string name="failed">Failed</string>
-    <string name="search">Search</string>
-    <string name="prev">Previous</string>
-    <string name="share">Share</string>
-    <string name="image">Image</string>
-    <string name="next">Next</string>
-    <string name="create_pdf">Create PDF</string>
-    <string name="create_pdf_format" formatted="true">Create PDF of: "%s"</string>
-    <string name="create_zip_format" formatted="true">Create ZIP of: "%s"</string>
-    <string name="created_pdf">Successful created PDF</string>
-    <string name="error_pdf">Error while creating PDF</string>
-    <string name="parsing_pages">Parsing pages</string>
-    <string name="writing_pdf">Writing PDF</string>
+    <string name="failed">Gagal</string>
+    <string name="search">Cari</string>
+    <string name="prev">Sebelumnya</string>
+    <string name="share">Bagikan</string>
+    <string name="image">Gambar</string>
+    <string name="next">Selanjutnya</string>
+    <string name="create_pdf">Buat PDF</string>
+    <string name="create_pdf_format" formatted="true">Buat PDF of: "%s"</string>
+    <string name="create_zip_format" formatted="true">Buat ZIP of: "%s"</string>
+    <string name="created_pdf">Berhasil membuat PDF</string>
+    <string name="error_pdf">Error saat membuat PDF</string>
+    <string name="parsing_pages">Mengiraikn halaman</string>
+    <string name="writing_pdf">Menulis PDF</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_subtitle">NHentai unofficial client</string>
-    <string name="change_page">Change page:</string>
-    <string name="prev_page">Previous page</string>
-    <string name="next_page">Next page</string>
+    <string name="change_page">Ganti halaman:</string>
+    <string name="prev_page">Halaman sebelumnya</string>
+    <string name="next_page">Halaman selanjutnya</string>
     <string name="downloaded_manga">Downloaded manga</string>
     <string name="download_gallery">Download gallery</string>
-    <string name="download_completed">Download completed</string>
-    <string name="delete_gallery_size_format" formatted="true">Delete gallery (%.2fMB)</string>
-    <string name="delete_gallery_format" formatted="true">Do you want to delete the gallery:\n%s</string>
-    <string name="share_with">Share with</string>
+    <string name="download_completed">Download sukses</string>
+    <string name="delete_gallery_size_format" formatted="true">Hapus gallery (%.2fMB)</string>
+    <string name="delete_gallery_format" formatted="true">Yakin mau hapus gallery:\n%s</string>
+    <string name="share_with">Bagikan dengan</string>
     <string name="link_copied_to_clipboard">Link copied to clipboard</string>
-    <string name="open_in_browser">Open in browser</string>
+    <string name="open_in_browser">Buka di browser</string>
     <string name="go_online">Go online</string>
     <string name="update_tag_status">Update tag status</string>
-    <string name="change_view">Change view</string>
+    <string name="change_view">Ubah tampilan</string>
     <string name="tag_preference">Tag preference</string>
-    <string name="manage_tags">Manage tags</string>
-    <string name="applied_filters">Applied filters</string>
-    <string name="show_related">Show related galleries</string>
+    <string name="manage_tags">kelola tags</string>
+    <string name="applied_filters">Terapkan filter</string>
+    <string name="show_related">Tampilkan galleri terkait</string>
     <string name="random_manga">Random manga</string>
-    <string name="save_page">Save page</string>
-    <string name="page_count_format" formatted="true">%d pages</string>
+    <string name="save_page">Simpan halaman</string>
+    <string name="page_count_format" formatted="true">%d halaman</string>
     <string name="upload_date_format" formatted="true">Uploaded on %s at %s</string>
-    <string name="favorite_count_format" formatted="true">%d favorites</string>
-    <string name="favorite_manga">Favorite manga</string>
+    <string name="favorite_count_format" formatted="true">%d favorit</string>
+    <string name="favorite_manga">Favorit manga</string>
     <string name="setting_on_remove_ignored">The galleries with ignored tags will not be shown</string>
     <string name="setting_off_remove_ignored">The galleries with ignored tags will be blurred</string>
     <string name="remove_ignored_galleries">Remove ignored galleries</string>
@@ -119,19 +119,19 @@
     <string name="next_page_volume_down">Go to next page with down volume</string>
     <string name="change_title_type">Change title type</string>
     <string name="title_type_summary">Select the default title type for the galleries</string>
-    <string name="search_settings">Search settings</string>
-    <string name="global_settings">Global settings</string>
-    <string name="images_settings">Images settings</string>
-    <string name="miscellaneous">Miscellaneous</string>
-    <string name="update_settings">Update settings</string>
+    <string name="search_settings">Pengaturan pencarian</string>
+    <string name="global_settings">Pengaturan umum</string>
+    <string name="images_settings">Pengaturan gambar</string>
+    <string name="miscellaneous">Bermacam-macam</string>
+    <string name="update_settings">Pengaturan update</string>
     <string name="online_favorite_manga">Online favorite manga</string>
-    <string name="cache_size_formatted">Cache size: %.2f MB</string>
-    <string name="cache_cleared">Cache cleared</string>
-    <string name="sort_by_latest">Sort by latest</string>
+    <string name="cache_size_formatted">Ukuran cache: %.2f MB</string>
+    <string name="cache_cleared">Cache dibersihkan</string>
+    <string name="sort_by_latest">Urutkan dari terbaru</string>
     <string name="edit">Edit</string>
-    <string name="options">Options</string>
-    <string name="keep_history">Keep search history</string>
-    <string name="add">Add</string>
+    <string name="options">Pengaturan</string>
+    <string name="keep_history">Simpan history pencarian</string>
+    <string name="add">Tambah</string>
     <string name="insert_tag_name">Insert tag name:</string>
     <string name="favorite_count">Favorite count</string>
     <string name="comments">Comments</string>
@@ -145,17 +145,17 @@
     <string name="copyURL">Copy URL</string>
     <string name="add_bookmark">Add bookmark</string>
     <string name="manage_bookmarks">Manage bookmarks</string>
-    <string name="bookmark_page_format">Page %d</string>
-    <string name="bookmark_description">Bookmark description</string>
-    <string name="enable_right_to_left">Enable right to left</string>
-    <string name="setting_on_use_rtl">Images will be shown right to left</string>
-    <string name="setting_off_use_rtl">Images will be shown left to right</string>
-    <string name="volume_change_setting">Change page with volume buttons</string>
+    <string name="bookmark_page_format">Halaman %d</string>
+    <string name="bookmark_description">Deskripsi bookmark</string>
+    <string name="enable_right_to_left">Aktifkan kanan ke kiri</string>
+    <string name="setting_on_use_rtl">Gambar akan ditampilkan dari kanan ke kiri</string>
+    <string name="setting_off_use_rtl">Gambar akan ditampilkan dari kiri ke kanan</string>
+    <string name="volume_change_setting">Ganti halaman dengan tombol volume</string>
     <string name="popular_tag_count">The number of popular tags shown while in Advanced search</string>
-    <string name="show_gallery_titles">Show gallery titles</string>
+    <string name="show_gallery_titles">Tampilkan judul galleri</string>
     <string name="use_column_port">Column count while in portrait</string>
     <string name="use_column_land">Column count while in landscape</string>
-    <string name="change_language">Change language</string>
+    <string name="change_language">Ganti bahasa</string>
     <string name="tag_artist_gallery">Artist:</string>
     <string name="tag_character_gallery">Character:</string>
     <string name="tag_parody_gallery">Parody:</string>
@@ -165,14 +165,14 @@
     <string name="tag_tag_gallery">Tag:</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
-    <string name="no">No</string>
-    <string name="yes">Yes</string>
-    <string name="start_all_downloads">Start all downloads</string>
-    <string name="pause_all_downloads">Pause all downloads</string>
-    <string name="cancel_all_downloads">Cancel all downloads</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="start_all_downloads">Mulai semua download</string>
+    <string name="pause_all_downloads">Hentikan semua download</string>
+    <string name="cancel_all_downloads">Batalkan semua download</string>
     <string name="disable_lock_title">Disable screen off while reading</string>
-    <string name="download_all_galleries_in_this_page">Download all galleries in this page</string>
-    <string name="download_all_galleries">Download all galleries</string>
+    <string name="download_all_galleries_in_this_page">Download semua galleridi halaman ini</string>
+    <string name="download_all_galleries">Download semua galleri</string>
     <string name="favorite_column_count">Select favorite column count</string>
     <string name="download_column_count">Select download column count</string>
     <string name="history_column_count">Select history column count</string>
@@ -180,9 +180,9 @@
     <string name="navigation_settings">Navigation settings</string>
     <string name="stop_download">Stop download</string>
     <string name="start_download">Start download</string>
-    <string name="create_zip">Create ZIP</string>
-    <string name="created_zip">Successfully created ZIP</string>
-    <string name="failed_zip">Failed to create ZIP: </string>
+    <string name="create_zip">Buat ZIP</string>
+    <string name="created_zip">Berhasil membuat ZIP</string>
+    <string name="failed_zip">gagal membuat ZIP: </string>
     <string name="start_page">Start page</string>
     <string name="end_page">End page</string>
     <string name="invalid_range_selected">Invalid range selected</string>
@@ -211,8 +211,8 @@
     <string name="use_pin">Use PIN</string>
     <string name="wrong_pin">Wrong PIN</string>
     <string name="rotate_image">Rotate image</string>
-    <string name="setting_alternative">Use nhent.ai instead of nhentai.net for censored country</string>
-    <string name="use_alternative">Use nhent.ai</string>
+    <string name="setting_alternative">Pakai nhent.ai daripada nhentai.net untuk negara yang disensor</string>
+    <string name="use_alternative">Pakai nhent.ai</string>
     <string name="toggle_online_favorite">Toggle online favorite</string>
     <string name="data_usage_settings">Change data usage settings</string>
     <string name="mobile_data_usage_setting">Mobile data usage settings</string>
